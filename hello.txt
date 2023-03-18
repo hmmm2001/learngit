@@ -1,7 +1,0 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes.
-hahahahahsdbdfn
-你站的方位，跟我中间隔着泪，街景一直在后退，你的崩溃在窗外淋碎，你一路向北，离开有我的季节
-你说你好累，已无法再爱上谁
